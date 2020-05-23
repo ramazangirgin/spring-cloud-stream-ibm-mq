@@ -1,0 +1,4 @@
+org/springframework/cloud/stream/binder/jms/ibmmq/IBMMQRequests.class
+org/springframework/cloud/stream/binder/jms/ibmmq/IBMMQProvisioningProvider.class
+org/springframework/cloud/stream/binder/jms/ibmmq/config/IBMMQConfigurationProperties.class
+org/springframework/cloud/stream/binder/jms/ibmmq/config/IBMMQJmsConfiguration.class
