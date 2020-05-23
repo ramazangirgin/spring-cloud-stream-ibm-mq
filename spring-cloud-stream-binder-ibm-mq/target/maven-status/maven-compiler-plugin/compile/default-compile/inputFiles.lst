@@ -1,0 +1,4 @@
+/Users/ramazangirgin/external-sources/spring-cloud/spring-cloud-stream-binder-ibm-mq/src/main/java/org/springframework/cloud/stream/binder/jms/ibmmq/IBMMQProvisioningProvider.java
+/Users/ramazangirgin/external-sources/spring-cloud/spring-cloud-stream-binder-ibm-mq/src/main/java/org/springframework/cloud/stream/binder/jms/ibmmq/config/IBMMQJmsConfiguration.java
+/Users/ramazangirgin/external-sources/spring-cloud/spring-cloud-stream-binder-ibm-mq/src/main/java/org/springframework/cloud/stream/binder/jms/ibmmq/IBMMQRequests.java
+/Users/ramazangirgin/external-sources/spring-cloud/spring-cloud-stream-binder-ibm-mq/src/main/java/org/springframework/cloud/stream/binder/jms/ibmmq/config/IBMMQConfigurationProperties.java

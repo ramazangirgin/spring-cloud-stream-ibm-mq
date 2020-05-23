@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../spring-cloud-build" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-build/docs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-build/spring-cloud-build-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-build/spring-cloud-build-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-build/spring-cloud-dependencies-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-stream-binder-jms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-stream-binder-jms/spring-cloud-stream-binder-jms-activemq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-stream-binder-jms/spring-cloud-stream-binder-jms-activemq-test-support" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-stream-binder-jms/spring-cloud-stream-binder-jms-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-stream-binder-jms/spring-cloud-stream-binder-jms-common-test-support" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+org/springframework/cloud/stream/binder/jms/ibmmq/integration/EndToEndIntegrationTests$1.class
+org/springframework/cloud/stream/binder/jms/ibmmq/integration/EndToEndIntegrationTests.class
+org/springframework/cloud/stream/binder/jms/ibmmq/IBMMQTestUtils.class

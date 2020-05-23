@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-stream-binder-jms-activemq" />
+        <module name="spring-cloud-stream-binder-jms-activemq-test-support" />
+        <module name="spring-cloud-stream-binder-jms-common" />
+        <module name="spring-cloud-stream-binder-jms-ibm-mq" />
+        <module name="spring-cloud-stream-binder-jms-common-test-support" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-build" target="1.8" />
+      <module name="spring-cloud-build-dependencies" target="1.5" />
+      <module name="spring-cloud-build-docs" target="1.8" />
+      <module name="spring-cloud-build-tools" target="1.8" />
+      <module name="spring-cloud-dependencies-parent" target="1.5" />
+      <module name="spring-cloud-stream-binder-jms-activemq" target="1.7" />
+      <module name="spring-cloud-stream-binder-jms-activemq-test-support" target="1.7" />
+      <module name="spring-cloud-stream-binder-jms-common" target="1.7" />
+      <module name="spring-cloud-stream-binder-jms-common-test-support" target="1.7" />
+      <module name="spring-cloud-stream-binder-jms-ibm-mq" target="1.7" />
+      <module name="spring-cloud-stream-binder-jms-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-cloud-build-docs" options="-parameters" />
+      <module name="spring-cloud-build-tools" options="-parameters" />
+    </option>
+  </component>
+</project>
