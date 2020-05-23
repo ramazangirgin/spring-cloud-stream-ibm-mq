@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 23 22:51:43 CEST 2020
+http\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream-dependencies\:pom\:Chelsea.SR2 from/to spring-milestones (http\://repo.spring.io/libs-milestone-local)\: Access denied to\: http\://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-stream-dependencies/Chelsea.SR2/spring-cloud-stream-dependencies-Chelsea.SR2.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1590267103121
+@default-spring-milestones-http\://repo.spring.io/libs-milestone-local/.lastUpdated=1590267102595
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1590267102242
+http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream-dependencies\:pom\:Chelsea.SR2 from/to spring-releases (http\://repo.spring.io/release)\: Access denied to\: http\://repo.spring.io/release/org/springframework/cloud/spring-cloud-stream-dependencies/Chelsea.SR2/spring-cloud-stream-dependencies-Chelsea.SR2.pom
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream-dependencies\:pom\:Chelsea.SR2 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Access denied to\: http\://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-stream-dependencies/Chelsea.SR2/spring-cloud-stream-dependencies-Chelsea.SR2.pom
+@default-spring-releases-http\://repo.spring.io/release/.lastUpdated=1590267102773

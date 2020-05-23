@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 23 22:41:59 CEST 2020
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-build\:pom\:1.2.2.BUILD-SNAPSHOT from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Access denied to\: http\://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-build/1.2.2.BUILD-SNAPSHOT/spring-cloud-build-1.2.2.BUILD-SNAPSHOT.pom
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1590266519781

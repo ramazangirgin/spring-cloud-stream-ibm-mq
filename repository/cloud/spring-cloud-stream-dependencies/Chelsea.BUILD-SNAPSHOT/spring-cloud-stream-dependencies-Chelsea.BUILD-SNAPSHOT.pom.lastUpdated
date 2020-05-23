@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 23 23:33:24 CEST 2020
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream-dependencies\:pom\:Chelsea.BUILD-SNAPSHOT from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Access denied to\: http\://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-stream-dependencies/Chelsea.BUILD-SNAPSHOT/spring-cloud-stream-dependencies-Chelsea.BUILD-SNAPSHOT.pom
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1590269604067

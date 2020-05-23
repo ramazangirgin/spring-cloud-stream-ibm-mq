@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 23 22:52:39 CEST 2020
+http\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream\:jar\:1.2.2.RELEASE from/to spring-milestones (http\://repo.spring.io/libs-milestone-local)\: Access denied to\: http\://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-stream/1.2.2.RELEASE/spring-cloud-stream-1.2.2.RELEASE.jar
+https\://repo.maven.apache.org/maven2/.lastUpdated=1590267159178
+@default-spring-milestones-http\://repo.spring.io/libs-milestone-local/.lastUpdated=1590267150781
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1590267148095
+http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream\:jar\:1.2.2.RELEASE from/to spring-releases (http\://repo.spring.io/release)\: Access denied to\: http\://repo.spring.io/release/org/springframework/cloud/spring-cloud-stream/1.2.2.RELEASE/spring-cloud-stream-1.2.2.RELEASE.jar
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream\:jar\:1.2.2.RELEASE from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Access denied to\: http\://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-stream/1.2.2.RELEASE/spring-cloud-stream-1.2.2.RELEASE.jar
+@default-spring-releases-http\://repo.spring.io/release/.lastUpdated=1590267153842

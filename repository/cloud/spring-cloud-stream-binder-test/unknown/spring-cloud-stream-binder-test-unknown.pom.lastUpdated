@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 23 22:46:48 CEST 2020
+http\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream-binder-test\:pom\:unknown from/to spring-milestones (http\://repo.spring.io/libs-milestone-local)\: Access denied to\: http\://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-stream-binder-test/unknown/spring-cloud-stream-binder-test-unknown.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1590266808288
+@default-spring-milestones-http\://repo.spring.io/libs-milestone-local/.lastUpdated=1590266808070
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1590266807886
+http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream-binder-test\:pom\:unknown from/to spring-releases (http\://repo.spring.io/release)\: Access denied to\: http\://repo.spring.io/release/org/springframework/cloud/spring-cloud-stream-binder-test/unknown/spring-cloud-stream-binder-test-unknown.pom
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-stream-binder-test\:pom\:unknown from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Access denied to\: http\://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-stream-binder-test/unknown/spring-cloud-stream-binder-test-unknown.pom
+https\://repo.maven.apache.org/maven2/.error=
+@default-spring-releases-http\://repo.spring.io/release/.lastUpdated=1590266808241

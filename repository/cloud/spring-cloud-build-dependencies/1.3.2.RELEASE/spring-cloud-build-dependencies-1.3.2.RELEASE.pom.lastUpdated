@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 23 22:51:47 CEST 2020
+http\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-build-dependencies\:pom\:1.3.2.RELEASE from/to spring-milestones (http\://repo.spring.io/libs-milestone-local)\: Access denied to\: http\://repo.spring.io/libs-milestone-local/org/springframework/cloud/spring-cloud-build-dependencies/1.3.2.RELEASE/spring-cloud-build-dependencies-1.3.2.RELEASE.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1590267107251
+@default-spring-milestones-http\://repo.spring.io/libs-milestone-local/.lastUpdated=1590267106935
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1590267106634
+http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-build-dependencies\:pom\:1.3.2.RELEASE from/to spring-releases (http\://repo.spring.io/release)\: Access denied to\: http\://repo.spring.io/release/org/springframework/cloud/spring-cloud-build-dependencies/1.3.2.RELEASE/spring-cloud-build-dependencies-1.3.2.RELEASE.pom
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-build-dependencies\:pom\:1.3.2.RELEASE from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Access denied to\: http\://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-build-dependencies/1.3.2.RELEASE/spring-cloud-build-dependencies-1.3.2.RELEASE.pom
+@default-spring-releases-http\://repo.spring.io/release/.lastUpdated=1590267107117
